@@ -16,7 +16,7 @@ Vue Light Bootstrap Dashboard is built on top of Bootstrap 4, Vuejs and Vue-rout
 3. Type `npm install` in the source folder where `package.json` is located
 4. Type `npm run dev` to start the development server
 
-The repo uses [vue-cli](https://github.com/vuejs/vue-cli) scaffolding which takes care of the development setup with webpack and all the necessary modern tools to make web development faster and easier.
+The repo uses [vue-cli](https://github.com/vuejs/vue-cli) scaffolding which takes care of the development setup with webpack and all the necessary modern tools to make web development faster and easier..
 
 ## [Documentation](https://demos.creative-tim.com/vue-light-bootstrap-dashboard/documentation/#/buttons)
 
